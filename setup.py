@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='cookie-cutter,
+    name='cookie-cutter',
     version='0.2.0',
     packages=['cookie_cutter'],
     package_dir={'cookie_cutter' : '.'}, # look for package contents in current directory
