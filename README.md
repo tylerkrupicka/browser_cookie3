@@ -11,7 +11,8 @@ This is a python3 fork of [Richard Penman's Browser Cookie](https://bitbucket.or
 ```
 #!bash
 
-    pip3 install browser-cookie3
+    pip3 install git+git://github.com/tylerkrupicka/cookie-cutter.git
+
 
 ```
 
